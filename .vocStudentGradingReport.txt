@@ -1,0 +1,104 @@
+
+[Executed at: Mon Feb 28 20:18:12 PST 2022]
+
+SUCCESS!
+RESULT: compiles [ 1 / 1 ]
+RUNNING othertok
+Other tokens:
+END (END) Line #: 15
+ICONST (579) Line #: 5
+SCONST (hello NJIT) Line #: 6
+RCONST (5.79) Line #: 7
+PLUS (+) Line #: 3
+MINUS (-) Line #: 3
+MULT (*) Line #: 3
+DIV (/) Line #: 3
+ASSOP (:=) Line #: 3
+LPAREN (() Line #: 3
+RPAREN ()) Line #: 3
+SEMICOL (;) Line #: 3
+COMMA (,) Line #: 3
+EQUAL (=) Line #: 4
+GTHAN (>) Line #: 4
+ERR (ERR) Line #: 3
+COLON (:) Line #: 3
+ASSOP (:=) Line #: 3
+DONE (DONE) Line #: 3
+RESULT: othertok [  2  / 2 ]
+RUNNING idsonly
+Identifiers and Keywords:
+WRITELN (WRITELN) Line #: 15
+IDENT (circle) Line #: 5
+IDENT (square) Line #: 6
+IDENT (rectangle) Line #: 7
+IDENT (ellipse) Line #: 3
+PROGRAM (PROGRAM) Line #: 3
+IDENT (REPEAT) Line #: 3
+INTEGER (INTEGER) Line #: 3
+REAL (REAL) Line #: 3
+STRING (STRING) Line #: 3
+IF (IF) Line #: 3
+THEN (THEN) Line #: 3
+END (END) Line #: 3
+TO (TO) Line #: 4
+DOWNTO (DOWNTO) Line #: 4
+FOR (FOR) Line #: 3
+ELSE (ELSE) Line #: 3
+RESULT: idsonly [  2  / 2 ]
+
+SUMMARY:
+RESULT: compiles [ 1 / 1 ]
+RESULT: othertok [  2  / 2 ]
+RESULT: idsonly [  2  / 2 ]
+TOTAL SCORE 5 out of 5
+
+SUCCESS!
+RESULT: compiles [ 1 / 1 ]
+RUNNING othertok
+Other tokens:
+END (END) Line #: 15
+ICONST (579) Line #: 5
+SCONST (hello NJIT) Line #: 6
+RCONST (5.79) Line #: 7
+PLUS (+) Line #: 3
+MINUS (-) Line #: 3
+MULT (*) Line #: 3
+DIV (/) Line #: 3
+ASSOP (:=) Line #: 3
+LPAREN (() Line #: 3
+RPAREN ()) Line #: 3
+SEMICOL (;) Line #: 3
+COMMA (,) Line #: 3
+EQUAL (=) Line #: 4
+GTHAN (>) Line #: 4
+ERR (ERR) Line #: 3
+COLON (:) Line #: 3
+ASSOP (:=) Line #: 3
+DONE (DONE) Line #: 3
+RESULT: othertok [  2  / 2 ]
+RUNNING idsonly
+Identifiers and Keywords:
+WRITELN (WRITELN) Line #: 15
+IDENT (circle) Line #: 5
+IDENT (square) Line #: 6
+IDENT (rectangle) Line #: 7
+IDENT (ellipse) Line #: 3
+PROGRAM (PROGRAM) Line #: 3
+IDENT (REPEAT) Line #: 3
+INTEGER (INTEGER) Line #: 3
+REAL (REAL) Line #: 3
+STRING (STRING) Line #: 3
+IF (IF) Line #: 3
+THEN (THEN) Line #: 3
+END (END) Line #: 3
+TO (TO) Line #: 4
+DOWNTO (DOWNTO) Line #: 4
+FOR (FOR) Line #: 3
+ELSE (ELSE) Line #: 3
+RESULT: idsonly [  2  / 2 ]
+
+SUMMARY:
+RESULT: compiles [ 1 / 1 ]
+RESULT: othertok [  2  / 2 ]
+RESULT: idsonly [  2  / 2 ]
+TOTAL SCORE 5 out of 5
